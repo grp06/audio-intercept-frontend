@@ -1,0 +1,37 @@
+{
+  "audioFeeds": [
+    {
+      "id": "1",
+      "fileName": "threat-high.mp3",
+      "name": "Alpha Squad 77",
+      "priority": "high",
+      "insights": [
+        "Multiple reinforcement requests detected",
+        "Pattern matches pre-offensive communications",
+        "High command involvement likely"
+      ]
+    },
+    {
+      "id": "2",
+      "fileName": "threat-medium.mp3",
+      "name": "Beta Patrol",
+      "priority": "medium",
+      "insights": [
+        "Routine patrol communications",
+        "Supply line coordination ongoing",
+        "Standard operational tempo"
+      ]
+    },
+    {
+      "id": "3",
+      "fileName": "threat-low.mp3",
+      "name": "Delta Force",
+      "priority": "low",
+      "insights": [
+        "Maintenance and logistics chatter",
+        "Weather-related discussions",
+        "No tactical significance detected"
+      ]
+    }
+  ]
+}
